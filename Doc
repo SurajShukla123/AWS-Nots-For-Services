@@ -1,0 +1,14 @@
+Here I have wrote down some simple yaml file for creating AWS resources in CloudFormatin 
+
+1. Go to CloudFormation in AWS mgmt console 
+2. Choose create stack
+3. Here you will get three option choose ready template 
+4. Upload your yaml file inside it
+5. If u want u can see in designer and validate ur template there it will show if is there is any error
+6. Now add that 
+7. Write your logical stack name 
+8. Leave everything default 
+9. Save it and that's it
+10.Now go to the services and check thre it will show that ec2 or whatever is getting created 
+11. Also u can track that thing in Stack event it will show u kind of log 
+12. Once everything is done you can delete that stack under stack section
